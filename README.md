@@ -1,1 +1,1 @@
-Just a small python fake Discord Nitro generator to troll your friends
+Just a small python fake Discord Nitro generator to give free nitro keys
